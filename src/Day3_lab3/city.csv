@@ -1,0 +1,10 @@
+code,	name,	continent,	surfacearea,	population,capital
+1,	Tokyo,	Asia,	139.69,1555432,ture
+2,	Cairo,	Africa,	106.84,5465198,true
+3,	NewYork,	North American,72.23,5465412,ture
+4,	Moscow,	Europe,	120.97,28898,true
+5,	Istanbul,	Asia,	121.466,666723,true
+6,	Wuhan,	Asia,	46.633,12875132,false
+6,	Heze,	Asia,	127,18975213,false
+6,	Ganzhou,	Asia,99,12133379,false
+2,	Minya,	Africa,	178.99,134684845,false
